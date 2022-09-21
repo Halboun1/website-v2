@@ -366,9 +366,13 @@ section.recent-work h1 {
 }
 
 section.recent-work h4 {
-    text-align: left;
+    text-align: center;
     margin: auto;
     width: 65%;
+}
+
+section.recent-work .projects .project .thumbnail img {
+    width: 70%;
 }
 
 
